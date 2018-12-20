@@ -16,6 +16,6 @@ class Pokemon
     db.execute("SELECT name, type FROM Pokemon",name,type)
   end
 	
-end 
+end
 end 
 
